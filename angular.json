@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testdoan5admin"
+    }
+  },
+  "defaultProject": "testdoan5admin",
+  "cli": {
+    "analytics": "73532675-c4da-4e70-9721-05a8ef049aa0"
+  }
 }
